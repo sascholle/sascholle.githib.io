@@ -36,15 +36,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc
+      institution: Tim Kietzmann Lab - Universität Osnabrück
+      year: 2026
+    - course: Computational Neuroscience Summer School
+      institution: Cape Town, South Africa
+      year: 2024
+    - course: BSc in Cognitive Science
+      institution: Universität Osnabrück
+      year: 2024
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -70,20 +70,20 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Climbing and bouldering
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: mountain
         icon_pack: fas
-      - name: Cats
+      - name: Cycling
         description: ''
         percent: 100
-        icon: cat
+        icon: bike
         icon_pack: fas
-      - name: Photography
+      - name: Whiskey
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: whiskey
         icon_pack: fas
 
 # Social/Academic Networking
@@ -105,10 +105,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/sascholle
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/sabine-scholle-71a78a174
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Sabine Scholle is a student at the University of Osnabrück in Germany, where she's works in the Kietzmann Lab on Neuro-AI research. Her academic focus is on functional alignment of the brain using generative autoencoders, and computational neuroscience system dynamics. She loves the outdoors and a bit of type 2 fun after a full day of type 3 fun working on debugging her code. 
+
