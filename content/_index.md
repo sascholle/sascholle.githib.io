@@ -189,17 +189,17 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  # - block: collection
-  #   id: featured
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     columns: '2'
-  #     view: card
+  - block: collection
+    id: featured
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   # - block: collection
   #   content:
   #     title: Recent Publications
@@ -243,9 +243,9 @@ sections:
       address:
         street: Institut Für Kognitionswissenschaft
         city: Osnabrück
-        #region: CA
-        #postcode: '94305'
         country: Germany
+        #region: CA
+        postcode: '49078'
         #country_code: US
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
