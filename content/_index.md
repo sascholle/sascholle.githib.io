@@ -99,25 +99,24 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - #certificate_url: https://www.coursera.org
+          title: 'Student'
+          company: 'Simons Computational Neuroscience Imbizo Summer School'
+          company_url: https://imbizo.africa/
+          location: 'Cape Town, South Africa'
           date_end: '2024-01-28'
-          date_start: '2024-01-08'
+          date_start: '2024-02-08'
           description: ''
           icon: ''
-          company: 'Simons Computational Neuroscience Summer School'
-          location: 'Cape Town, South Africa'
-          organization_url: https://imbizo.africa/
-          title: 'Computational Neuroscience Imbizo'
           url: ''
         - #certificate_url: https://www.edx.org
+          title: 'Intern' 
+          company: 'The Integrated Science Lab'
+          company_url: https://www.sfu.ca/siat/people/research-faculty/brian-fisher.html
+          location: 'Simon Fraser University | Vancouver, Canada'
           date_end: '2022-09-15'
           date_start: '2022-05-01'
-          #description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: ''
-          company: 'Simon Fraser University' 
-          location: 'Vancouver, Canada'
-          organization_url: https://www.edx.org
-          title: Internship at the Integrated Science Lab with Professor Brian Fisher
-          url: https://www.sfu.ca/siat/people/research-faculty/brian-fisher.html
+          description: built a graphical user interface for a NASA Frontier Development Lab project on H2 production
+          icon: ''          
         - title: 'Professional sailboat crewmember'
           company: Various
           company_url: 'https://vimeo.com/241540552'
