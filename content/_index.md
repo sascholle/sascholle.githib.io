@@ -124,6 +124,15 @@ sections:
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: 'I worked for several years on private yachts before starting my degree in Osnabrück, Germany. I still miss the seas, but enjoyed switching out the boatdeck for the lab. See a [magazine article](https://www.1a-yachtcharter.de/blog/wir-brauchen-mehr-frauen-da-draussen-auf-dem-wasser/) about my experiences as a female deck crewmember and my fun [little video CV](https://vimeo.com/241540552) I made while starting out.'
+        - title: 'Penryn College'
+          company: High School
+          company_url: 'https://www.penryn.co.za/'
+          company_logo: ''
+          location: 'Mbombela, South Africa'
+          date_start: '2010-01-01'
+          date_end: '2015-01-01'
+          description: 'I grew up and attended high school in the beautiful bushveld of Mpumalanga, South Africa - not far from the famous Kruger National Park.'
+
 
         # - certificate_url: https://www.datacamp.com
         #   date_end: '2020-12-21'
