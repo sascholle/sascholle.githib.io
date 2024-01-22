@@ -118,5 +118,5 @@ social:
 highlight_name: true
 ---
 
-Sabine Scholle is a student at the University of Osnabrück in Germany, where she'S part of the Kietzmann Lab working on Neuro-AI research. Her academic focus is on functional alignment of the brain using generative autoencoders, and computational neuroscience system dynamics. She loves the outdoors and a bit of type 2 fun after a full day of type 3 fun working on debugging her code. 
+Sabine Scholle is a student at the University of Osnabrück in Germany, where she's part of the Kietzmann Lab working on Neuro-AI research. Her academic interests are in functional alignment of the brain using generative autoencoders, biologically-inspired ML, and AI in politics. She loves the outdoors and a bit of type 2 fun after a full day of type 3 fun working on debugging her code. 
 
