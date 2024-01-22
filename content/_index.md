@@ -114,16 +114,16 @@ sections:
           icon: simonfraser
           organization: Simon Fraser University | Vancouver, Canada
           organization_url: https://www.edx.org
-          title: Internship at Integrated Science Lab
+          title: Internship at the Integrated Science Lab with Professor Brian Fisher
           url: https://www.sfu.ca/siat/people/research-faculty/brian-fisher.html
         - title: Professional sailboat crewmember
           company: 
-          company_url: 'https://vimeo.com/241540552'
+          company_url: See a fun video CV I made while job-hunting 'https://vimeo.com/241540552'
           company_logo: ''
           location: Caribbean / Mediterranean 
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: see magazine article I wrote about my experiences as a female deck crewmember - 
+          description: See a magazine article I wrote about my experiences as a female deck crewmember - 
           url: https://www.1a-yachtcharter.de/blog/wir-brauchen-mehr-frauen-da-draussen-auf-dem-wasser/
         # - certificate_url: https://www.datacamp.com
         #   date_end: '2020-12-21'
