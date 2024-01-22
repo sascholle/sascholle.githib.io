@@ -124,7 +124,8 @@ sections:
           location: 'Caribbean / Mediterranean'
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: 'I worked for several years on private yachts before starting my degree in Osnabrück, Germany. I still miss the seas, but enjoyed switching out the deck for the lab. See a magazine article I wrote about my experiences as a female deck crewmember https://www.1a-yachtcharter.de/blog/wir-brauchen-mehr-frauen-da-draussen-auf-dem-wasser/'
+          description: 'I worked for several years on private yachts before starting my degree in Osnabrück, Germany. I still miss the seas, but enjoyed switching out the deck for the lab. See a magazine article I wrote about my experiences as a female deck crewmember [https://www.1a-yachtcharter.de/blog/wir-brauchen-mehr-frauen-da-draussen-auf-dem-wasser/]'
+
         # - certificate_url: https://www.datacamp.com
         #   date_end: '2020-12-21'
         #   date_start: '2020-07-01'

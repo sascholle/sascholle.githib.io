@@ -51,7 +51,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://osnadocs.ub.uni-osnabrueck.de/handle/ds-202207157198
+url_code: https://osnadocs.ub.uni-osnabrueck.de/handle/ds-202207157198
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
