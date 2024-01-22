@@ -29,7 +29,7 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Publications of the University of Osnabrück*"
+publication: "* Publications of the Institute of Cognitive Science Universität Osnabrück*"
 publication_short: ""
 
 abstract: China is one of the worlds AI Superpowers, yet we are prone to ignore the discourse the public is presented with in our Western-centric seminar. This study analyses popular newspapers of Germany, the USA and China and conducts a sentiment
