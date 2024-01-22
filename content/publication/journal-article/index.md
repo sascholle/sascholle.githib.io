@@ -25,7 +25,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "July 2022"
+date: "2022-07-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
