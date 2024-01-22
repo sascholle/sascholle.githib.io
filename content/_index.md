@@ -104,7 +104,7 @@ sections:
           location: 'Cape Town, South Africa'
           date_end: '2024-01-28'
           date_start: '2024-02-08'
-          description: ''
+          description: 'An intensive and small-group week course addressing biophysics, neural recordings, higher cognitive functions and machine learning.'
           icon: ''
           url: ''
         - title: 'Intership at Simon Fraser University' 
@@ -122,7 +122,7 @@ sections:
           location: 'Caribbean / Mediterranean'
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: 'I worked for several years on private yachts before starting my degree in Osnabrück, Germany. I still miss the seas, but enjoyed switching out the deck for the lab. See a [magazine article](https://www.1a-yachtcharter.de/blog/wir-brauchen-mehr-frauen-da-draussen-auf-dem-wasser/) I wrote about my experiences as a female deck crewmember and my fun [little video CV](https://vimeo.com/241540552) I made while starting out'
+          description: 'I worked for several years on private yachts before starting my degree in Osnabrück, Germany. I still miss the seas, but enjoyed switching out the deck for the lab. See a [magazine article](https://www.1a-yachtcharter.de/blog/wir-brauchen-mehr-frauen-da-draussen-auf-dem-wasser/) I wrote about my experiences as a female deck crewmember and my fun [little video CV](https://vimeo.com/241540552) I made while starting out.'
 
         # - certificate_url: https://www.datacamp.com
         #   date_end: '2020-12-21'
