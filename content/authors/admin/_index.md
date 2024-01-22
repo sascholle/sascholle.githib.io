@@ -40,7 +40,7 @@ education:
       institution: Cape Town, South Africa
       year: 2024
     - course: BSc in Cognitive Science
-      institution: Universität Osnabrück - Kietzmann Lab
+      institution: Universität Osnabrück | Kietzmann Lab
       year: 2024
 
 # Skills
