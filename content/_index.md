@@ -102,28 +102,29 @@ sections:
           date_end: '2024-01-28'
           date_start: '2024-01-08'
           description: ''
-          icon: imbizo
-          organization: Simons Computational Neuroscience Summer School
+          icon: ''
+          organization: 'Simons Computational Neuroscience Summer School'
           organization_url: https://imbizo.africa/
-          title: Computational Neuroscience Imbizo 
+          title: 'Computational Neuroscience Imbizo'
           url: ''
         - #certificate_url: https://www.edx.org
           date_end: '2023-09-15'
           date_start: '2023-05-01'
           #description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: simonfraser
-          organization: Simon Fraser University | Vancouver, Canada
+          icon: ''
+          organization: 'Simon Fraser University' 
+          location: 'Vancouver, Canada'
           organization_url: https://www.edx.org
           title: Internship at the Integrated Science Lab with Professor Brian Fisher
           url: https://www.sfu.ca/siat/people/research-faculty/brian-fisher.html
-        - title: Professional sailboat crewmember
+        - title: 'Professional sailboat crewmember'
           company: 
-          company_url: See a fun video CV I made while job-hunting 'https://vimeo.com/241540552'
+          company_url: 'See a fun video CV I made while job-hunting https://vimeo.com/241540552'
           company_logo: ''
-          location: Caribbean / Mediterranean 
+          location: 'Caribbean / Mediterranean'
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: See a magazine article I wrote about my experiences as a female deck crewmember - 
+          description: 'See a magazine article I wrote about my experiences as a female deck crewmember' 
           url: https://www.1a-yachtcharter.de/blog/wir-brauchen-mehr-frauen-da-draussen-auf-dem-wasser/
         # - certificate_url: https://www.datacamp.com
         #   date_end: '2020-12-21'
@@ -251,7 +252,7 @@ sections:
       #appointment_url: 'https://calendly.com'
       address:
         street: Institut für Kognitionswissenschaft
-        city: Osnabrück, Germany
+        region: Osnabrück, Germany
         #region: CA
         #postcode: '49078'
         #country_code: US
