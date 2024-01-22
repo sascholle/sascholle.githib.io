@@ -102,7 +102,7 @@ sections:
           date_end: ''
           date_start: '2024-01-08'
           description: ''
-          icon: coursera
+          icon: imbizo
           organization: Simons Computational Neuroscience Summer School
           organization_url: https://imbizo.africa/
           title: Computational Neuroscience Imbizo 
@@ -111,7 +111,7 @@ sections:
           date_end: ''
           date_start: '2023-05-01'
           #description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
+          icon: simonfraser
           organization: Simon Fraser University | Vancouver, Canada
           organization_url: https://www.edx.org
           title: Internship at Integrated Science Lab
@@ -241,7 +241,7 @@ sections:
       #phone: 
       #appointment_url: 'https://calendly.com'
       address:
-        street: INSTITUT FÜR KOGNITIONSWISSENSCHAFT
+        street: Institut Für Kognitionswissenschaft
         city: Osnabrück
         #region: CA
         #postcode: '94305'
