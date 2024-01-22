@@ -80,7 +80,7 @@ skills:
       - name: Whiskey
         description: ''
         percent: 40
-        icon: whisky
+        icon: whiskey-glass
         icon_pack: fas
 
 # Social/Academic Networking
