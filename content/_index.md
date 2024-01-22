@@ -86,6 +86,7 @@ sections:
   #   design:
   #     columns: '2'
   - block: experience
+    id: experience
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Experi&shy;ence'
