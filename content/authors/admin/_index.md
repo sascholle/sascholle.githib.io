@@ -25,7 +25,7 @@ organizations:
     url: https://www.uni-osnabrueck.de/startseite/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include artificial intelligence, neuroscience and climbing. Send me a message and let's go bouldering!
+bio: My research interests include artificial intelligence, neuroscience and climbing. Send me a message and let's talk neuro-AI and/or go bouldering!
 
 # Interests to show in About widget
 interests:
@@ -69,12 +69,12 @@ skills:
     items:
       - name: Sport climbing and bouldering
         description: ''
-        percent: 65
+        percent: 80
         icon: mountain
         icon_pack: fas
       - name: Cycling
         description: ''
-        percent: 80
+        percent: 65
         icon: bicycle
         icon_pack: fas
       - name: Sailing
@@ -118,5 +118,5 @@ social:
 highlight_name: true
 ---
 
-Sabine Scholle is a student at the University of Osnabrück in Germany, where she's part of the Kietzmann Lab working on Neuro-AI research. Her academic interests are in functional alignment of the brain using generative autoencoders, emergent system dynamics in ML and the brain and AI in politics. She loves the outdoors and a bit of type 2 fun after a full day of type 3 fun working on debugging her code. 
+Sabine Scholle is a student at the University of Osnabrück in Germany, where she's part of the Kietzmann Lab working on Neuro-AI research. Her academic interests are in functional alignment of the brain using generative autoencoders, emergent system dynamics in ML and the brain; and AI in politics. She loves the outdoors and a bit of type 2 fun after a full day of type 3 fun working on debugging her code. 
 

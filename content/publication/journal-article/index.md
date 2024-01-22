@@ -26,7 +26,7 @@ author_notes:
 - "Equal contribution"
 
 date: "2022-07-01"
-doi: ""
+doi: "https://doi.org/10.48693/151"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -37,7 +37,7 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "* Publications of the Institute of Cognitive Science Universität Osnabrück*"
+publication: "* Publications of the Institute of Cognitive Science Universität Osnabrück"
 publication_short: ""
 
 abstract: "China is one of the worlds AI Superpowers, yet we are prone to ignore the discourse the public is presented with in our Western-centric seminar. This study analyses popular newspapers of Germany, the USA and China and conducts a sentiment and SWOT analysis, to compare the style of discourse people of these nations are presented with. This study fnds that China is the most positive in its discourse around AI, while the US and Germany mainly communicate information on artifcial intelligence in an informative manner. In all three countries, the newspapers mostly cover favourable attributes of AI such as opportunities and strengths rather than adverse aspects like threats and weaknesses."
