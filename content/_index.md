@@ -98,9 +98,8 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - #certificate_url: https://www.coursera.org
-          title: 'Simons Computational Neuroscience Summer School'
-          company: Imbizo
+        - title: 'Simons Computational Neuroscience Summer School'
+          company: Imbizo Africa
           company_url: https://imbizo.africa/
           location: 'Cape Town, South Africa'
           date_end: '2024-01-28'
@@ -108,15 +107,16 @@ sections:
           description: ''
           icon: ''
           url: ''
-        - #certificate_url: https://www.edx.org
-          title: 'Intership at Simon Fraser University' 
+
+        -  title: 'Intership at Simon Fraser University' 
           company: 'The Integrated Science Lab'
           company_url: https://www.sfu.ca/siat/people/research-faculty/brian-fisher.html
           location: 'Vancouver, Canada'
           date_end: '2022-09-15'
           date_start: '2022-05-01'
           description: built a graphical user interface for a NASA Frontier Development Lab project on H2 production
-          icon: ''          
+          icon: '' 
+
         - title: 'Professional sailboat crewmember'
           company: Sailing Yacht Flow | Motor Yacht 4Leon | Hamburg City Sailing
           company_url: 'https://vimeo.com/241540552'
@@ -124,8 +124,7 @@ sections:
           location: 'Caribbean / Mediterranean'
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: 'I worked for several years on private yachts before starting my degree in Osnabrück, Germany. Still miss the seas, but enjoying switching out the deck for the lab. See a magazine article I wrote about my experiences as a female deck crewmember' 
-          url: https://www.1a-yachtcharter.de/blog/wir-brauchen-mehr-frauen-da-draussen-auf-dem-wasser/
+          description: 'I worked for several years on private yachts before starting my degree in Osnabrück, Germany. I still miss the seas, but enjoyed switching out the deck for the lab. See a magazine article I wrote about my experiences as a female deck crewmember https://www.1a-yachtcharter.de/blog/wir-brauchen-mehr-frauen-da-draussen-auf-dem-wasser/'
         # - certificate_url: https://www.datacamp.com
         #   date_end: '2020-12-21'
         #   date_start: '2020-07-01'
