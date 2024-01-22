@@ -241,11 +241,10 @@ sections:
       #phone: 
       #appointment_url: 'https://calendly.com'
       address:
-        street: Institut Für Kognitionswissenschaft
-        city: Osnabrück
-        country: Germany
+        street: Institut für Kognitionswissenschaft
+        city: Osnabrück, Germany
         #region: CA
-        postcode: '49078'
+        #postcode: '49078'
         #country_code: US
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
