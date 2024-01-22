@@ -104,6 +104,7 @@ sections:
           description: ''
           icon: ''
           organization: 'Simons Computational Neuroscience Summer School'
+          location: 'Cape Town, South Africa'
           organization_url: https://imbizo.africa/
           title: 'Computational Neuroscience Imbizo'
           url: ''
