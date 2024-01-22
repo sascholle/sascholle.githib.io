@@ -3,11 +3,11 @@
 title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sabine
+last_name: Scholle
 
 # Status emoji
 status:
@@ -17,21 +17,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Cognitive Science Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universitüt Osnabrück
+    url: https://www.uni-osnabrueck.de/startseite/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include artificial intelligence, neuroscience and climbing. Send me a message and let's go bouldering!
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Computational Neuroscience
+  - Anything outdoors
 
 # Education to show in About widget
 education:
