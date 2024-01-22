@@ -118,7 +118,7 @@ sections:
           description: built a graphical user interface for a NASA Frontier Development Lab project on H2 production
           icon: ''          
         - title: 'Professional sailboat crewmember'
-          company: Various
+          company: Sailing Yacht Flow | Motor Yacht 4Leon | Hamburg City Sailing
           company_url: 'https://vimeo.com/241540552'
           company_logo: ''
           location: 'Caribbean / Mediterranean'
