@@ -99,8 +99,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - #certificate_url: https://www.coursera.org
-          title: 'Student'
-          company: 'Simons Computational Neuroscience Imbizo Summer School'
+          title: 'Simons Computational Neuroscience Summer School'
+          company: Imbizo
           company_url: https://imbizo.africa/
           location: 'Cape Town, South Africa'
           date_end: '2024-01-28'
@@ -109,10 +109,10 @@ sections:
           icon: ''
           url: ''
         - #certificate_url: https://www.edx.org
-          title: 'Intern' 
+          title: 'Intership at Simon Fraser University' 
           company: 'The Integrated Science Lab'
           company_url: https://www.sfu.ca/siat/people/research-faculty/brian-fisher.html
-          location: 'Simon Fraser University | Vancouver, Canada'
+          location: 'Vancouver, Canada'
           date_end: '2022-09-15'
           date_start: '2022-05-01'
           description: built a graphical user interface for a NASA Frontier Development Lab project on H2 production
@@ -124,7 +124,7 @@ sections:
           location: 'Caribbean / Mediterranean'
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: 'See a magazine article I wrote about my experiences as a female deck crewmember' 
+          description: 'I worked for several years on private yachts before starting my degree in Osnabrück, Germany. Still miss the seas, but enjoying switching out the deck for the lab. See a magazine article I wrote about my experiences as a female deck crewmember' 
           url: https://www.1a-yachtcharter.de/blog/wir-brauchen-mehr-frauen-da-draussen-auf-dem-wasser/
         # - certificate_url: https://www.datacamp.com
         #   date_end: '2020-12-21'
