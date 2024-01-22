@@ -50,9 +50,8 @@ featured: true
 
 # links:
 # - name: ""
-#   url: ""
 url: 'https://doi.org/10.48693/151'
-#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_code: 'github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
 url_project: ''
