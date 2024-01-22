@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Sabine Scholle
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -21,7 +21,7 @@ role: Cognitive Science Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Universitüt Osnabrück
+  - name: Universität Osnabrück
     url: https://www.uni-osnabrueck.de/startseite/
 
 # Short bio (displayed in user profile at end of posts)
