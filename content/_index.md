@@ -112,8 +112,8 @@ sections:
           company: Imbizo Africa
           company_url: https://imbizo.africa/
           location: 'Cape Town, South Africa'
-          date_end: '2024-01-28'
-          date_start: '2024-02-08'
+          date_end: '2024-02-28'
+          date_start: '2024-01-08'
           description: 'An intensive three week course addressing biophysics, plasticity, neural recordings, higher cognitive functions, network dynamics and machine learning.'
           icon: ''
           url: ''

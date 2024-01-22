@@ -80,7 +80,7 @@ skills:
       - name: Sailing
         description: ''
         percent: 90
-        icon: sailingboat
+        icon: sailboat
         icon_pack: fas
 
 # Social/Academic Networking
@@ -93,7 +93,7 @@ social:
     link: mailto:sascholle@uni-osnabrueck.de
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/sabinescholle
     label: Follow me on Twitter
     display:
       header: true
