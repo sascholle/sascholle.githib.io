@@ -1,5 +1,5 @@
 ---
-title: "Does AI in public discourse change with diferent political and socio-economic systems? An analysis of the AI debate in newspapers in the emergent AI Superpowers: USA, China and Germany"
+title: "Does AI in public discourse change with different political and socio-economic systems? An analysis of the AI debate in newspapers in the emergent AI Superpowers: USA, China and Germany"
 
 authors:
 - Sabine Scholle
