@@ -36,14 +36,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc
-      institution: Tim Kietzmann Lab - Universität Osnabrück
-      year: 2026
     - course: Computational Neuroscience Summer School
       institution: Cape Town, South Africa
       year: 2024
     - course: BSc in Cognitive Science
-      institution: Universität Osnabrück
+      institution: Universität Osnabrück - Kietzmann Lab
       year: 2024
 
 # Skills
@@ -61,16 +58,16 @@ skills:
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Neuroscience
         description: ''
         percent: 40
-        icon: database
+        icon: brain
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Climbing and bouldering
+      - name: Sport climbing and bouldering
         description: ''
         percent: 60
         icon: mountain
@@ -78,12 +75,12 @@ skills:
       - name: Cycling
         description: ''
         percent: 100
-        icon: bike
+        icon: bicycle
         icon_pack: fas
       - name: Whiskey
         description: ''
         percent: 80
-        icon: whiskey
+        icon: whisky
         icon_pack: fas
 
 # Social/Academic Networking
