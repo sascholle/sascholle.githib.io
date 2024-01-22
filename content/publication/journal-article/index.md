@@ -38,7 +38,7 @@ abstract: "China is one of the worlds AI Superpowers, yet we are prone to ignore
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
