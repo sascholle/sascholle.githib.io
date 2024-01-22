@@ -74,12 +74,12 @@ skills:
         icon_pack: fas
       - name: Cycling
         description: ''
-        percent: 100
+        percent: 90
         icon: bicycle
         icon_pack: fas
       - name: Whiskey
         description: ''
-        percent: 80
+        percent: 40
         icon: whisky
         icon_pack: fas
 
