@@ -90,7 +90,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:sascholle@uni-osnabrueck.de
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -106,6 +106,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: www.linkedin.com/in/sabine-scholle-71a78a174
+  
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
