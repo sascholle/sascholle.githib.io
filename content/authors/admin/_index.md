@@ -48,19 +48,19 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Python | Pytorch
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 60
         icon: chart-line
         icon_pack: fas
       - name: Neuroscience
         description: ''
-        percent: 40
+        percent: 75
         icon: brain
         icon_pack: fas
   - name: Hobbies
