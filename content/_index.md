@@ -114,7 +114,7 @@ sections:
           location: 'Vancouver, Canada'
           date_end: '2022-09-15'
           date_start: '2022-05-01'
-          description: built a graphical user interface for a NASA Frontier Development Lab project on H2 production
+          description: 'Built a graphical user interface for a NASA Frontier Development Lab project on H2 production'
           icon: '' 
 
         - title: 'Professional sailboat crewmember'
