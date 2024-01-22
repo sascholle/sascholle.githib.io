@@ -99,13 +99,22 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: 'Teaching Assistant for Machine Learning for Cognitive Computational Neuroscience'
+          company: Universität Osnabrück
+          company_url: https://www.ikw.uni-osnabrueck.de/en/research_groups/machine_learning.html
+          location: 'Osnabrück, Germany'
+          date_end: '2022-09-01'
+          date_start: '2024-03-30'
+          description: 'In depth course on Machine Learning meeting Neuroscience to answer questions from both sides of the fence.'
+          icon: ''
+          url: ''
         - title: 'Simons Computational Neuroscience Summer School'
           company: Imbizo Africa
           company_url: https://imbizo.africa/
           location: 'Cape Town, South Africa'
           date_end: '2024-01-28'
           date_start: '2024-02-08'
-          description: 'An intensive and small-group week course addressing biophysics, neural recordings, higher cognitive functions and machine learning.'
+          description: 'An intensive three week course addressing biophysics, plasticity, neural recordings, higher cognitive functions, network dynamics and machine learning.'
           icon: ''
           url: ''
         - title: 'Intership at Simon Fraser University' 
@@ -123,7 +132,7 @@ sections:
           location: 'Caribbean / Mediterranean'
           date_start: '2016-01-01'
           date_end: '2020-12-31'
-          description: 'I worked for several years on private yachts before starting my degree in Osnabrück, Germany. I still miss the seas, but enjoyed switching out the boatdeck for the lab. See a [magazine article](https://www.1a-yachtcharter.de/blog/wir-brauchen-mehr-frauen-da-draussen-auf-dem-wasser/) about my experiences as a female deck crewmember and my fun [little video CV](https://vimeo.com/241540552) I made while starting out.'
+          description: 'I worked for several years on private yachts before starting my degree in Osnabrück, Germany. I still miss the seas, but enjoyed switching out the boat deck for the lab. See a [magazine article](https://www.1a-yachtcharter.de/blog/wir-brauchen-mehr-frauen-da-draussen-auf-dem-wasser/) about my experiences as a female deck crewmember and my fun [little video CV](https://vimeo.com/241540552) I made while starting out.'
         - title: 'Penryn College'
           company: High School
           company_url: 'https://www.penryn.co.za/'
