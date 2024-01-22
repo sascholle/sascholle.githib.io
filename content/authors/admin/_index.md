@@ -69,17 +69,17 @@ skills:
     items:
       - name: Sport climbing and bouldering
         description: ''
-        percent: 60
+        percent: 65
         icon: mountain
         icon_pack: fas
       - name: Cycling
         description: ''
-        percent: 90
+        percent: 80
         icon: bicycle
         icon_pack: fas
       - name: Sailing
         description: ''
-        percent: 40
+        percent: 90
         icon: sailingboat
         icon_pack: fas
 
