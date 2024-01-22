@@ -1,16 +1,27 @@
 ---
-title: "An example journal article"
+title: "Does AI in public discourse change with diferent political and socio-economic systems? An analysis of the AI debate in newspapers in the emergent AI Superpowers: USA, China and Germany"
+
 authors:
-- admin
-- Robert Ford
+- Sabine Scholle
+- Konstantin Strömel
+- Archana Singh
+- Louisa Maubach
+- Johanna Kopetsch
+- Kyra Breidbach
+- Kristin Gnadt
+- Anna Ricarda Luther
+- Lea Tiyavorabun
+- Hedye Tayebi
+
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+
+date: "2022"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +29,17 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Publications of the University of Osnabrück*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: China is one of the worlds AI Superpowers, yet we are prone to ignore the discourse the public is presented with in our Western-centric seminar. This study analyses popular newspapers of Germany, the USA and China and conducts a sentiment
+and SWOT analysis, to compare the style of discourse people of these nations are
+presented with. This study fnds that China is the most positive in its discourse
+around AI, while the US and Germany mainly communicate information on artifcial intelligence in an informative manner. In all three countries, the newspapers
+mostly cover favourable attributes of AI such as opportunities and strengths rather
+than adverse aspects like threats and weaknesses.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+keywords: artifcial intelligence | newspaper| discourse |sentiment | SWOT | media | international | China | Germany | USA | comparative analysis
 
 tags:
 - Source Themes
@@ -33,8 +48,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://osnadocs.ub.uni-osnabrueck.de/handle/ds-202207157198
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
 url_project: ''
