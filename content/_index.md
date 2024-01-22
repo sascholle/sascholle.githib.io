@@ -107,7 +107,7 @@ sections:
           description: ''
           icon: ''
           url: ''
-        -  title: 'Intership at Simon Fraser University' 
+        - title: 'Intership at Simon Fraser University' 
           company: 'The Integrated Science Lab'
           company_url: https://www.sfu.ca/siat/people/research-faculty/brian-fisher.html
           location: 'Vancouver, Canada'
