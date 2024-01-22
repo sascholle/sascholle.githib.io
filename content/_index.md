@@ -103,8 +103,8 @@ sections:
           company: Universität Osnabrück
           company_url: https://www.ikw.uni-osnabrueck.de/en/research_groups/machine_learning.html
           location: 'Osnabrück, Germany'
-          date_end: '2022-09-01'
-          date_start: '2024-03-30'
+          date_end: ''
+          date_start: '2022-09-01'
           description: 'In depth course on Machine Learning meeting Neuroscience to answer questions from both sides of the fence.'
           icon: ''
           url: ''
