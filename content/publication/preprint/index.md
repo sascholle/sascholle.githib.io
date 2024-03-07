@@ -15,8 +15,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+#publication: ""
+#publication_short: ""
 
 abstract: Developed a AI-augmented decision-making tool called the ”H2 Golden Retriever”
 
@@ -32,12 +32,12 @@ links:
   url: https://drive.google.com/file/d/1O-lryJJ6xqtrPD1nLpLJqFsY8zzToerc/view
 url_pdf: ''
 url_code: ''
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
