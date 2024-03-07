@@ -219,7 +219,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Publications
+      title: Publications and Achievements 
       filters:
         folders:
           - publication
