@@ -117,7 +117,7 @@ sections:
           description: 'An intensive three week course addressing biophysics, plasticity, neural recordings, higher cognitive functions, network dynamics and machine learning.'
           icon: ''
           url: ''
-        - title: 'Intership at Simon Fraser University' 
+        - title: 'Internship at Simon Fraser University' 
           company: 'The Integrated Science Lab'
           company_url: https://www.sfu.ca/siat/people/research-faculty/brian-fisher.html
           location: 'Vancouver, Canada'
