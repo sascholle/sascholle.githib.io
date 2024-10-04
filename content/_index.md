@@ -123,7 +123,7 @@ sections:
           location: 'Vancouver, Canada'
           date_end: '2022-09-15'
           date_start: '2022-05-01'
-          description: 'Built a graphical user interface for a NASA Frontier Development Lab project on H2 production.'
+          description: 'Helped work on a project building a graphical user interface for a NASA Frontier Development Lab project for more efficient H² production.'
           icon: '' 
         - title: 'Professional Sailboat Crewmember'
           company: Sailing Yacht Flow | Motor Yacht 4Leon | Hamburg City Sailing
