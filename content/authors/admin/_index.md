@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Cognitive Science Student
+role: Cognitive Science Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
