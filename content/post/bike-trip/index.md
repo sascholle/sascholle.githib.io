@@ -41,4 +41,6 @@ categories:
 
 ## Overview
 
-After completing my thesis in May 2024, a friend and I completed a 2 month bike packing trip through Malawi, Tanzania and into Kenya. We wanted to experience travel in the most honest fashion possible. Just us, the bikes and our legs pedalling us into the unknown. 
+After completing my thesis in May 2024, a friend and I completed a 2 month bike packing trip through Malawi, Tanzania and into Kenya. We wanted to experience travel in the most honest method possible. Just us, the bikes and our legs pedalling us into the unknown. 
+
+I'm working on a more detailed blog post and section altogether, showing a bit more of my personal adventures and events... So, coming soon...
