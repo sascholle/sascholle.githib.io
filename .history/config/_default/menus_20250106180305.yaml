@@ -20,7 +20,7 @@ main:
     url: '#featured'
     weight: 30
   - name: Personal Blog
-    url: '/post/bike-trip/'
+    url: '/post/bike'
     weight: 40
   - name: Contact
     url: '#contact'
