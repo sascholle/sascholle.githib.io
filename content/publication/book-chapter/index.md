@@ -14,7 +14,6 @@ authors:
 - Lea Tiyavorabun
 - Hedye Tayebi
 
-
 date: "2022-07-01"
 doi: "https://osnadocs.ub.uni-osnabrueck.de/handle/ds-202207157198"
 
@@ -40,9 +39,9 @@ tags:
 - Source Themes
 featured: true
 
-# links:
-# - name: ""
-url: 'https://osnadocs.ub.uni-osnabrueck.de/handle/ds-202207157198'
+links:
+- name: "Full Text"
+  url: 'https://osnadocs.ub.uni-osnabrueck.de/handle/ds-202207157198'
 #url_code: 'github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
