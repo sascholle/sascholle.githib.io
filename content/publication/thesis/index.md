@@ -1,23 +1,13 @@
 ---
-title: "NASA Patent"
+title: "BSC Thesis"
 authors:
-- Rozhin Yasaei
-- Paul R.M. Seurin
-- Joseph B. Wiggins
-- Olusola Olabanjo
-- Lorien Pratt
-- Loveneesh Rana
-- Gregory Renard
-- Anne Marie Esposito
-- Marika Wieliczko
 - Sabine Scholle
-- Arpitha Malavalli
 
-date: "08/12/2022"
+date: "07/05/2024"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-12-08T00:00:00Z"
+publishDate: "2024-05-07T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,7 +18,7 @@ publication_types: ["article"]
 #publication: ""
 #publication_short: ""
 
-abstract: Helped developed a user interface for an AI-augmented decision-making tool called the ”H2 Golden Retriever” for evidence-based hydrogen research grantsmanship
+abstract: 'Deep Learning for fMRI Functional Alignment: Multi-subject autoencoder network for learning a shared latent space for neural activity'
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac #convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -39,7 +29,7 @@ featured: true
 
 links:
 - name: Link to PDF
-  url: https://drive.google.com/file/d/1O-lryJJ6xqtrPD1nLpLJqFsY8zzToerc/view
+  url: https://drive.google.com/file/d/1nIyzhl-9pJRU_nPo018foUZTlSmE1l0t/view?usp=sharing
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -48,7 +38,6 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -70,3 +59,11 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
+---
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
